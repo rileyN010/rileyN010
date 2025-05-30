@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @rileyN010, but most people call me riley
-- 👀 I’m interested in Computer Science, Photography, Journalism, and Motorsports Engineering/Racing.
-- 🌱 I’m currently learning HTML 5, Python, C++, and Java
-- 💞️ I’m looking to collaborate on ... websites and things that solve problems
-- 📫 How to reach me ... uhhh 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I also play volleyball
+- Hi, I'm Riley Noori-Guldstrand
+- I’m interested in Computer Science, Photography, Journalism, and Motorsports Engineering/Racing.
+- I already know HTML, Python, and JavaScript, and I am learning Java and C++.
+- I also play volleyball and guitar!
 
 <!---
 rileyN010/rileyN010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
