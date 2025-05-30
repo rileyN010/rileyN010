@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rileyN010
-- 👀 I’m interested in Computer Science, Photography, Journalism, and Motorsports Racing/Engineering.
+- 👋 Hi, I’m @rileyN010, but most people call me riley
+- 👀 I’m interested in Computer Science, Photography, Journalism, and Motorsports Engineering/Racing.
 - 🌱 I’m currently learning HTML 5, Python, C++, and Java
 - 💞️ I’m looking to collaborate on ... websites and things that solve problems
 - 📫 How to reach me ... uhhh 
