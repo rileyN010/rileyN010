@@ -1,5 +1,5 @@
 - Hi, I'm Riley Noori-Guldstrand
-- I’m interested in Computer Science, Photography, Journalism, and Motorsports Engineering/Racing.
+- I’m interested in Computer Science, Medical Studies, Journalism, and Motorsports Engineering/Racing.
 - I already know HTML, Python, and JavaScript, and I am learning Java and C++.
 - I also play volleyball and guitar!
 
